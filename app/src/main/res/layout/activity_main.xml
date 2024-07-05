@@ -9,7 +9,7 @@
 
     <TextView
         android:id="@+id/textview1"
-      android:text="I Love You"
+      android:text="hello world"
         android:textSize="25sp"
         android:textStyle="bold"
       android:layout_width="wrap_content"
